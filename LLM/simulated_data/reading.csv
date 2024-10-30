@@ -21,14 +21,127 @@ Timestamp,BrightnessLevel,Location,UserActivity
 10:38:00,800,sofa,sitting
 10:40:00,800,sofa,sitting
 10:42:00,800,sofa,sitting
-10:44:00,800,sofa,reading
-10:46:00,800,sofa,reading
-10:48:00,800,sofa,reading
-10:50:00,800,sofa,reading
-10:52:00,800,sofa,reading
-10:54:00,800,sofa,reading
-10:56:00,800,sofa,reading
-10:58:00,800,sofa,reading
-11:00:00,800,sofa,reading
-11:02:00,800,sofa,reading
-11:04:00,800,sofa,reading
+10:44:00,800,sofa,lying
+10:46:00,800,sofa,lying
+10:48:00,800,sofa,lying
+10:50:00,800,sofa,lying
+10:52:00,800,sofa,lying
+10:54:00,800,sofa,lying
+10:56:00,800,sofa,lying
+10:58:00,800,sofa,lying
+11:00:00,800,sofa,lying
+11:02:00,800,sofa,lying
+11:04:00,800,sofa,lying
+11:06:00,800,sofa,watch tv
+11:08:00,800,sofa,watch tv
+11:10:00,800,sofa,watch tv
+11:12:00,800,sofa,watch tv
+11:14:00,800,sofa,watch tv
+11:16:00,800,sofa,watch tv
+11:18:00,800,sofa,watch tv
+11:20:00,800,sofa,watch tv
+11:22:00,800,sofa,watch tv
+11:24:00,800,sofa,watch tv
+11:26:00,800,sofa,watch tv
+11:28:00,800,sofa,video_gaming
+11:30:00,800,sofa,video_gaming
+11:32:00,800,sofa,video_gaming
+11:34:00,800,sofa,video_gaming
+11:36:00,800,sofa,video_gaming
+11:38:00,800,sofa,video_gaming
+11:40:00,800,sofa,video_gaming
+11:42:00,800,sofa,video_gaming
+11:44:00,800,sofa,video_gaming
+11:46:00,800,sofa,video_gaming
+11:48:00,800,sofa,video_gaming
+11:50:00,800,sofa,typing
+11:52:00,800,sofa,typing
+11:54:00,800,sofa,typing
+11:56:00,800,sofa,typing
+11:58:00,800,sofa,typing
+12:00:00,800,sofa,typing
+12:02:00,800,sofa,typing
+12:04:00,800,sofa,typing
+12:06:00,800,sofa,typing
+12:08:00,800,sofa,typing
+12:10:00,800,sofa,typing
+12:12:00,800,sofa,video_gaming
+12:14:00,800,sofa,video_gaming
+12:16:00,800,sofa,video_gaming
+12:18:00,800,sofa,video_gaming
+12:20:00,800,sofa,video_gaming
+12:22:00,800,sofa,video_gaming
+12:24:00,800,sofa,video_gaming
+12:26:00,800,sofa,video_gaming
+12:28:00,800,sofa,video_gaming
+12:30:00,800,sofa,video_gaming
+12:32:00,800,sofa,typing
+12:34:00,800,sofa,typing
+12:36:00,800,sofa,typing
+12:38:00,800,sofa,typing
+12:40:00,800,sofa,typing
+12:42:00,800,sofa,typing
+12:44:00,800,sofa,typing
+12:46:00,800,sofa,typing
+12:48:00,800,sofa,typing
+12:50:00,800,sofa,typing
+12:52:00,800,sofa,eating
+12:54:00,800,sofa,eating
+12:56:00,800,sofa,eating
+12:58:00,800,sofa,eating
+13:00:00,800,sofa,eating
+13:02:00,800,sofa,eating
+13:04:00,800,sofa,eating
+13:06:00,800,sofa,eating
+13:08:00,800,sofa,eating
+13:10:00,800,sofa,eating
+13:12:00,800,living room,walking
+13:14:00,801,living room,walking
+13:16:00,802,living room,walking
+13:18:00,803,living room,walking
+13:20:00,804,living room,walking
+13:22:00,805,living room,walking
+13:24:00,806,living room,walking
+13:26:00,807,living room,walking
+13:28:00,808,living room,walking
+13:30:00,809,living room,walking
+13:32:00,800,sofa,eating
+13:34:00,801,sofa,eating
+13:36:00,802,sofa,eating
+13:38:00,803,sofa,eating
+13:40:00,804,sofa,eating
+13:42:00,805,sofa,eating
+13:44:00,806,sofa,eating
+13:46:00,807,sofa,eating
+13:48:00,808,sofa,eating
+13:50:00,809,sofa,eating
+13:52:00,900,living room,walking
+13:54:00,901,living room,walking
+13:56:00,902,living room,walking
+13:58:00,903,living room,walking
+14:00:00,904,living room,walking
+14:02:00,905,living room,walking
+14:04:00,906,living room,walking
+14:06:00,907,living room,walking
+14:08:00,908,living room,walking
+14:10:00,909,living room,walking
+14:12:00,800,living room,housekeeping
+14:14:00,801,living room,housekeeping
+14:16:00,802,living room,housekeeping
+14:18:00,803,living room,housekeeping
+14:20:00,804,living room,housekeeping
+14:22:00,805,living room,housekeeping
+14:24:00,806,living room,housekeeping
+14:26:00,807,living room,housekeeping
+14:28:00,808,living room,housekeeping
+14:30:00,809,living room,housekeeping
+14:32:00,800,living room,exercising
+14:34:00,801,living room,exercising
+14:36:00,802,living room,exercising
+14:38:00,803,living room,exercising
+14:40:00,804,living room,exercising
+14:42:00,805,living room,exercising
+14:44:00,806,living room,exercising
+14:46:00,807,living room,exercising
+14:48:00,808,living room,exercising
+14:50:00,809,living room,exercising
