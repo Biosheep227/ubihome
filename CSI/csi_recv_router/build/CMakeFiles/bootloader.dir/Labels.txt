@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/CMakeFiles/bootloader
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/CMakeFiles/bootloader.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/CMakeFiles/bootloader-complete.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/zehaokou/Desktop/Paper2/code/ESP32/csi_recv_router/.devcontainer/csi_recv_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

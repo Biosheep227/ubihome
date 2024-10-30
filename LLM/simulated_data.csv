@@ -1,0 +1,147 @@
+Timestamp,BrightnessLevel,Location,UserActivity
+10:00:00,112,sofa,sitting
+11:00:00,109,sofa,sitting
+12:00:00,102,sofa,sitting
+13:00:00,110,sofa,sitting
+14:00:00,116,sofa,sitting
+15:00:00,111,sofa,sitting
+16:00:00,118,sofa,sitting
+17:00:00,78,sofa,sitting
+18:00:00,25,sofa,sitting
+19:00:00,23,sofa,sitting
+20:00:00,14,sofa,lying
+21:00:00,32,sofa,lying
+22:00:00,40,sofa,lying
+23:00:00,45,sofa,lying
+00:00:00,29,sofa,lying
+01:00:00,33,sofa,lying
+02:00:00,24,sofa,lying
+03:00:00,38,sofa,sitting
+04:00:00,42,sofa,sitting
+05:00:00,52,sofa,sitting
+06:00:00,52,sofa,sitting
+07:00:00,99,sofa,sitting
+08:00:00,131,sofa,sitting
+09:00:00,132,sofa,sitting
+10:00:00,133,sofa,sitting
+11:00:00,121,sofa,sitting
+12:00:00,123,sofa,reading
+13:00:00,121,sofa,sitting
+14:00:00,23,sofa ,laying
+16:40:00,40,sofa,sitting
+10:00:00,800,sofa,sitting
+10:05:00,800,sofa,sitting
+10:10:00,800,sofa,sitting
+10:15:00,800,sofa,sitting
+10:20:00,800,sofa,sitting
+10:25:00,800,sofa,sitting
+10:30:00,800,sofa,sitting
+10:35:00,800,sofa,sitting
+10:40:00,800,sofa,sitting
+10:45:00,800,sofa,sitting
+10:50:00,800,sofa,reading
+10:55:00,800,sofa,reading
+11:00:00,800,sofa,reading
+11:05:00,800,sofa,reading
+11:10:00,800,sofa,reading
+11:15:00,800,sofa,reading
+11:20:00,800,sofa,reading
+11:25:00,800,sofa,reading
+11:30:00,800,sofa,reading
+11:35:00,800,sofa,reading
+11:40:00,800,sofa,reading
+11:45:00,800,sofa,lying
+11:50:00,800,sofa,lying
+11:55:00,800,sofa,lying
+12:00:00,800,sofa,lying
+12:05:00,800,sofa,lying
+12:10:00,800,sofa,lying
+12:15:00,800,sofa,lying
+12:20:00,800,sofa,lying
+12:25:00,800,sofa,lying
+12:30:00,800,sofa,lying
+12:35:00,800,sofa,lying
+12:40:00,800,sofa,watching_tv
+12:45:00,800,sofa,watching_tv
+12:50:00,800,sofa,watching_tv
+12:55:00,800,sofa,watching_tv
+13:00:00,800,sofa,watching_tv
+13:05:00,800,sofa,watching_tv
+13:10:00,800,sofa,watching_tv
+13:15:00,800,sofa,watching_tv
+13:20:00,800,sofa,watching_tv
+13:25:00,800,sofa,watching_tv
+13:30:00,800,sofa,watching_tv
+13:35:00,800,sofa,video_gaming
+13:40:00,800,sofa,video_gaming
+13:45:00,800,sofa,video_gaming
+13:50:00,800,sofa,video_gaming
+13:55:00,800,sofa,video_gaming
+14:00:00,800,sofa,video_gaming
+14:05:00,800,sofa,video_gaming
+14:10:00,800,sofa,video_gaming
+14:15:00,800,sofa,video_gaming
+14:20:00,800,sofa,video_gaming
+14:25:00,800,sofa,video_gaming
+14:30:00,800,sofa,typing
+14:35:00,800,sofa,typing
+14:40:00,800,sofa,typing
+14:45:00,800,sofa,typing
+14:50:00,800,sofa,typing
+14:55:00,800,sofa,typing
+15:00:00,800,sofa,typing
+15:05:00,800,sofa,typing
+15:10:00,800,sofa,typing
+15:15:00,800,sofa,typing
+15:20:00,800,sofa,typing
+15:25:00,800,sofa,typing
+15:26:00,800,sofa,eating
+15:27:00,800,sofa,eating
+15:28:00,800,sofa,eating
+15:29:00,800,sofa,eating
+15:30:00,800,sofa,eating
+15:31:00,800,sofa,eating
+15:32:00,800,sofa,eating
+15:33:00,800,sofa,eating
+15:34:00,800,sofa,eating
+15:35:00,800,sofa,eating
+15:36:00,800,sofa,eating
+15:37:00,800,sofa,eating
+15:38:00,800,living room,walking
+15:39:00,800,living room,walking
+15:40:00,800,living room,walking
+15:41:00,800,living room,walking
+15:42:00,800,living room,walking
+15:43:00,800,living room,walking
+15:44:00,800,living room,walking
+15:45:00,800,living room,walking
+15:46:00,800,living room,walking
+15:47:00,800,living room,walking
+15:48:00,800,living room,walking
+15:49:00,800,living room,walking
+13:10:00,800,living room,housekeeping
+13:15:00,800,living_room,housekeeping
+13:20:00,800,living_room,housekeeping
+13:25:00,800,living_room,housekeeping
+13:30:00,800,living_room,housekeeping
+13:35:00,800,living_room,housekeeping
+13:40:00,800,living_room,housekeeping
+13:45:00,800,living_room,housekeeping
+13:50:00,800,living_room,housekeeping
+13:55:00,800,living_room,housekeeping
+14:00:00,800,living_room,housekeeping
+14:05:00,800,living_room,housekeeping
+14:10:00,800,living_room,housekeeping
+14:15:00,800,living_room,housekeeping
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
