@@ -1,106 +1,15 @@
 Timestamp,BrightnessLevel,Location,UserActivity
-20:00:00,50,sofa,sitting
-20:02:00,50,sofa,sitting
-20:04:00,50,sofa,sitting
-20:06:00,50,sofa,sitting
-20:08:00,50,sofa,sitting
-20:10:00,50,sofa,sitting
-20:12:00,50,sofa,sitting
-20:14:00,50,sofa,sitting
-20:16:00,50,sofa,sitting
-20:18:00,50,sofa,sitting
-20:20:00,50,sofa,sitting
-20:22:00,50,sofa,reading
-20:24:00,50,sofa,reading
-20:26:00,50,sofa,reading
-20:28:00,50,sofa,reading
-20:30:00,50,sofa,reading
-20:32:00,50,sofa,reading
-20:34:00,50,sofa,reading
-20:36:00,50,sofa,reading
-20:38:00,50,sofa,reading
-20:40:00,50,sofa,reading
-20:42:00,50,sofa,reading
-20:44:00,50,sofa,reading
-20:46:00,50,sofa,lying
-20:48:00,50,sofa,lying
-20:50:00,50,sofa,lying
-20:52:00,50,sofa,lying
-20:54:00,50,sofa,lying
-20:56:00,50,sofa,lying
-20:58:00,50,sofa,lying
-21:00:00,50,sofa,lying
-21:02:00,50,sofa,lying
-21:04:00,50,sofa,lying
-21:06:00,50,sofa,watch tv
-21:08:00,50,sofa,watch tv
-21:10:00,50,sofa,watch tv
-21:12:00,50,sofa,watch tv
-21:14:00,50,sofa,watch tv
-21:16:00,50,sofa,watch tv
-21:18:00,50,sofa,watch tv
-21:20:00,50,sofa,watch tv
-21:22:00,50,sofa,watch tv
-21:24:00,50,sofa,watch tv
-21:26:00,50,sofa,watch tv
-21:28:00,50,sofa,video game
-21:30:00,50,sofa,video game
-21:32:00,50,sofa,video game
-21:34:00,50,sofa,video game
-21:36:00,50,sofa,video game
-21:38:00,50,sofa,video game
-21:40:00,50,sofa,video game
-21:42:00,50,sofa,video game
-21:44:00,50,sofa,video game
-21:46:00,50,sofa,video game
-21:48:00,50,sofa,video game
-21:50:00,50,sofa,typing
-21:52:00,50,sofa,typing
-21:54:00,50,sofa,typing
-21:56:00,50,sofa,typing
-21:58:00,50,sofa,typing
-22:00:00,50,sofa,typing
-22:02:00,50,sofa,typing
-22:04:00,50,sofa,typing
-22:06:00,50,sofa,typing
-22:08:00,50,sofa,typing
-22:10:00,50,sofa,eating
-22:12:00,50,sofa,eating
-22:14:00,50,sofa,eating
-22:16:00,50,sofa,eating
-22:18:00,50,sofa,eating
-22:20:00,50,sofa,eating
-22:22:00,50,sofa,eating
-22:24:00,50,sofa,eating
-22:26:00,50,sofa,eating
-22:28:00,50,sofa,eating
-22:30:00,50,living room,walking
-22:32:00,50,living room,walking
-22:34:00,50,living room,walking
-22:36:00,50,living room,walking
-22:38:00,50,living room,walking
-22:40:00,50,living room,walking
-22:42:00,50,living room,walking
-22:44:00,50,living room,walking
-22:46:00,50,living room,walking
-22:48:00,50,living room,walking
-22:50:00,50,living room,housekeeping
-22:52:00,50,living room,housekeeping
-22:54:00,50,living room,housekeeping
-22:56:00,50,living room,housekeeping
-22:58:00,50,living room,housekeeping
-23:00:00,50,living room,housekeeping
-23:02:00,50,living room,housekeeping
-23:04:00,50,living room,housekeeping
-23:06:00,50,living room,housekeeping
-23:08:00,50,living room,housekeeping
-23:10:00,50,living room,exercising
-23:12:00,50,living room,exercising
-23:14:00,50,living room,exercising
-23:16:00,50,living room,exercising
-23:18:00,50,living room,exercising
-23:20:00,50,living room,exercising
-23:22:00,50,living room,exercising
-23:24:00,50,living room,exercising
-23:26:00,50,living room,exercising
-23:28:00,50,living room,exercising
+10:00:00,800,living room,housekeeping
+10:02:00,800,living room,housekeeping
+10:04:00,800,living room,housekeeping
+10:06:00,800,living room,housekeeping
+10:08:00,800,living room,housekeeping
+10:10:00,800,living room,housekeeping
+10:12:00,800,living room,housekeeping
+10:14:00,800,living room,housekeeping
+10:16:00,800,living room,housekeeping
+10:18:00,800,living room,housekeeping
+10:20:00,800,living room,housekeeping
+10:20:30,800,living room,housekeeping
+10:21:00,800,living room,housekeeping
+10:21:30,800,living room,standing
