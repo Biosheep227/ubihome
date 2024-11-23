@@ -1,15 +1,110 @@
 Timestamp,BrightnessLevel,Location,UserActivity
-10:00:00,800,living room,housekeeping
-10:02:00,800,living room,housekeeping
-10:04:00,800,living room,housekeeping
-10:06:00,800,living room,housekeeping
-10:08:00,800,living room,housekeeping
-10:10:00,800,living room,housekeeping
-10:12:00,800,living room,housekeeping
-10:14:00,800,living room,housekeeping
-10:16:00,800,living room,housekeeping
-10:18:00,800,living room,housekeeping
-10:20:00,800,living room,housekeeping
-10:20:30,800,living room,housekeeping
-10:21:00,800,living room,housekeeping
-10:21:30,800,living room,standing
+10:00:00,900,sofa,sitting
+10:02:00,900,sofa,sitting
+10:04:00,900,sofa,sitting
+10:06:00,900,sofa,sitting
+10:08:00,900,sofa,sitting
+10:10:00,900,sofa,sitting
+10:12:00,900,sofa,sitting
+10:14:00,900,sofa,sitting
+10:16:00,900,sofa,sitting
+10:18:00,900,sofa,sitting
+10:19:00,900,sofa,sitting
+10:19:30,900,sofa,sitting
+10:21:00,900,sofa,sitting
+10:21:30,900,sofa,sitting
+10:22:00,900,sofa,reading
+10:22:30,900,sofa,reading
+10:23:00,900,sofa,reading
+10:23:30,900,sofa,reading
+10:24:00,900,sofa,reading
+10:24:30,900,sofa,reading
+10:25:00,900,sofa,reading
+10:25:30,900,sofa,reading
+10:26:00,900,sofa,reading
+10:26:30,900,sofa,reading
+10:27:00,900,sofa,lying
+10:27:30,900,sofa,lying
+10:28:00,900,sofa,lying
+10:28:30,900,sofa,lying
+10:29:00,900,sofa,lying
+10:29:30,900,sofa,lying
+10:30:00,900,sofa,lying
+10:30:30,900,sofa,lying
+10:31:00,900,sofa,lying
+10:31:30,900,sofa,lying
+10:32:00,900,sofa,lying
+10:32:30,900,sofa,watching_tv
+10:33:00,900,sofa,watching_tv
+10:33:30,900,sofa,watching_tv
+10:34:00,900,sofa,watching_tv
+10:34:30,900,sofa,watching_tv
+10:35:00,900,sofa,watching_tv
+10:35:30,900,sofa,watching_tv
+10:36:00,900,sofa,watching_tv
+10:36:30,900,sofa,watching_tv
+10:37:00,900,sofa,watching_tv
+10:37:30,900,sofa,video_gaming
+10:38:00,900,sofa,video_gaming
+10:38:30,900,sofa,video_gaming
+10:39:00,900,sofa,video_gaming
+10:39:30,900,sofa,video_gaming
+10:40:00,900,sofa,video_gaming
+10:40:30,900,sofa,video_gaming
+10:41:00,900,sofa,video_gaming
+10:41:30,900,sofa,video_gaming
+10:42:00,900,sofa,video_gaming
+10:42:30,900,sofa,video_gaming
+10:43:00,900,sofa,typing
+10:43:30,900,sofa,typing
+10:44:00,900,sofa,typing
+10:44:30,900,sofa,typing
+10:45:00,900,sofa,typing
+10:45:30,900,sofa,typing
+10:46:00,900,sofa,typing
+10:46:30,900,sofa,typing
+10:47:00,900,sofa,typing
+10:47:30,900,sofa,typing
+10:48:00,900,sofa,typing
+10:48:30,900,sofa,eating
+10:49:00,900,sofa,eating
+10:49:30,900,sofa,eating
+10:50:00,900,sofa,eating
+10:50:30,900,sofa,eating
+10:51:00,900,sofa,eating
+10:51:30,900,sofa,eating
+10:52:00,900,sofa,eating
+10:52:30,900,sofa,eating
+10:53:00,900,sofa,eating
+10:53:30,900,sofa,eating
+10:54:00,900,living room,walking
+10:54:30,900,living room,walking
+10:55:00,900,living room,walking
+10:55:30,900,living room,walking
+10:56:00,900,living room,walking
+10:56:30,900,living room,walking
+10:57:00,900,living room,walking
+10:57:30,900,living room,walking
+10:58:00,900,living room,walking
+10:58:30,900,living room,walking
+10:59:00,900,living room,housekeeping
+10:59:30,900,living room,housekeeping
+11:00:00,900,living room,housekeeping
+11:00:30,900,living room,housekeeping
+11:01:00,900,living room,housekeeping
+11:01:30,900,living room,housekeeping
+11:02:00,900,living room,housekeeping
+11:02:30,900,living room,housekeeping
+11:03:00,900,living room,housekeeping
+11:03:30,900,living room,housekeeping
+11:04:00,900,living room,exercising
+11:04:30,900,living room,exercising
+11:05:00,900,living room,exercising
+11:05:30,900,living room,exercising
+11:06:00,900,living room,exercising
+11:06:30,900,living room,exercising
+11:07:00,900,living room,exercising
+11:07:30,900,living room,exercising
+11:08:00,900,living room,exercising
+11:08:30,900,living room,exercising
+11:09:00,900,living room,exercising
